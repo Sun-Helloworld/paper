@@ -51,7 +51,7 @@
 
 #### 整体架构：
 
-![](D:\Study\学习\论文\GPU\阅读\图片\kubegpu\架构图.png)
+![img](https://api2.mubu.com/v3/document_image/e23a99c7-b051-4339-a56b-8ac5e228e1d8-15661181.jpg)
 
 #### 各个部件功能：
 
