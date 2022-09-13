@@ -89,7 +89,7 @@ Device Resource ：是对集群内物理设备进行灵活管理的逻辑抽象�
 
 通过令牌来实现此流程，此处的优先级由两个因素决定：
 
-![](D:\Study\学习\论文\GPU\阅读\图片\kubegpu\compute resourse allocation.png)
+![img](https://api2.mubu.com/v3/document_image/c203453a-f983-40e5-9331-1ccf3588180b-15661181.jpg)
 
 1. GU_BIAS 容器的计算资源需求与容器实际GPU利用率之间的差值，即计算资源需求(gucore)减去实际GPU利用率。
 2. GU表示最大GPU利用率(100%)与容器实际GPU利用率的差值，即最大GPU利用率减去容器实际GPU利用率。GU值越高，表示容器的GPU利用率越低。
